@@ -13,7 +13,7 @@ body{
     height: max-content;
     margin: auto;
     margin-top:50%;
-    margin-bottom:50%;
+    
 }
 #time-boxes{
     display: flex;
@@ -55,6 +55,7 @@ body{
     justify-content: center;
     align-items: center;
     margin-top: 2%;
+    margin-bottom:40%;
 }
 .formatcss{
     color: #fff;
